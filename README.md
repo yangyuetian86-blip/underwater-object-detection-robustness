@@ -98,21 +98,21 @@ The bounding box annotations were reused because image degradation does not chan
 
 ## 8. Robustness Visualization
 
-### Blur Robustness
+<p align="center">
+  <img src="figures/blur_robustness.png" width="650">
+</p>
 
-![Blur Robustness](figures/blur_robustness.png)
+<p align="center">
+  <img src="figures/haze_robustness.png" width="650">
+</p>
 
-### Haze Robustness
+<p align="center">
+  <img src="figures/combined_robustness.png" width="650">
+</p>
 
-![Haze Robustness](figures/haze_robustness.png)
-
-### Combined Blur and Haze Robustness
-
-![Combined Robustness](figures/combined_robustness.png)
-
-### Overall Degradation Drop
-
-![Robustness Drop](figures/robustness_drop.png)
+<p align="center">
+  <img src="figures/robustness_drop.png" width="650">
+</p>
 
 ---
 
