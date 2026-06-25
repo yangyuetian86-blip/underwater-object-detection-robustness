@@ -1,0 +1,6 @@
+train: "F:/Program Files/Underwater_Detection/yolo_dataset/images/train"
+val: "F:/Program Files/Underwater_Detection/yolo_dataset/images/train"
+test: "F:/Program Files/Underwater_Detection/yolo_dataset/images/test"
+
+nc: 4
+names: ['holothurian', 'echinus', 'scallop', 'starfish']

@@ -1,0 +1,16 @@
+﻿runs/
+weights/
+*.pt
+*.pth
+*.onnx
+data/images/
+data/labels/
+yolo_dataset/
+yolo_dataset_alsaug/
+yolo_dataset_augmented/
+yolo_dataset_clsaug/
+__pycache__/
+.cache/
+*.log
+.DS_Store
+_archive_old/

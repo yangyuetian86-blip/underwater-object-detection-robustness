@@ -1,0 +1,10 @@
+# 数据集根目录
+path: F:/Program Files/Underwater_Detection/yolo_dataset 
+
+# 必须保留这三个路径，且路径必须真实存在
+train: images/train
+val: images/train   # 这里暂时指向 train 文件夹以骗过语法检查
+test: images/test   # 这是你真正要测的
+
+nc: 4
+names: ['holothurian', 'echinus', 'scallop', 'starfish']

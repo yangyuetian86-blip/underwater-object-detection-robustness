@@ -1,0 +1,5 @@
+model,precision,recall,mAP50,mAP50_95,notes
+YOLO11s,0.8343,0.7946,0.8590,0.5112,5-fold average
+YOLO11m,0.8299,0.8004,0.8532,0.5091,5-fold average
+RT-DETR-l,0.8050,0.7882,0.8478,0.4891,5-fold average
+Faster R-CNN ResNet50-FPN,0.8203,0.7516,0.8409,0.4711,fold1 only

@@ -1,0 +1,9 @@
+path: ../yolo_dataset # 这里的路径相对于训练脚本
+train: images/train
+val: images/train
+
+names:
+  0: holothurian
+  1: echinus
+  2: scallop
+  3: starfish
